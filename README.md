@@ -2,36 +2,19 @@
 
 ## Hey everyone,
 
-I’m super excited to share that I just passed the PMP exam with Above Target (AT) in all three domains (People, Process, Business Environment)! 🎯 It was a challenging journey, but I couldn’t have done it without some key resources, especially Dumps Spot.
+I’m super excited to share that I just passed the PMP exam with Above Target (AT) in all three domains (People, Process, Business Environment)! 🎯 It was a challenging journey, but I couldn’t have done it without some key resources, especially DumpsSpot.
 
-## Here’s a quick rundown of my study strategy:
+## PMI PMP Practice Questions:
 
-### Study Materials Used:
-
-PMP Udemy course 35 PDUs (watch videos at 2-3X, get general familiarity)
-
-PMP Process Mapping Game (game to memorize phases/processes)
-
-PMBOK 7th Edition Full Review on Principles (15 min full guide)
-
-PMBOK 6th Edition Full Review on Process Flow (22 min full guide)
-
-David Mclachlan’s 200 agile questions (exam-like agile-scenario questions)
-
-DumpsSpot PMP Exam PDF – These practice questions were incredibly helpful in familiarizing myself with the actual exam format and the types of tricky questions that get asked.
+Dumpsspot.com PMP Exam PDF – These practice questions were incredibly helpful in familiarizing myself with the actual exam format and the types of tricky questions that get asked.
 
 Practice Tests – I took at least one mock exam every day for two weeks, focusing on weak areas and reviewing explanations for all answers.
-
-### My 3-Week Plan:
-**Week 1:** Built foundational knowledge with the PMBOK and Rita’s book.
-
-**Week 2:** Practiced with Dumps Spot PMP Dumps, focusing on ITTOs and Agile methodology.
-
-**Week 3:** Full-length practice exams and fine-tuning weak areas with more Dumps Spot practice questions.
 
 ### Exam Day Tips:
 Keep calm and pace yourself. There were a few tricky situational questions, but using Dumps Spot gave me the confidence to tackle them.
 Don’t rush—flag questions if needed and revisit them with a fresh perspective.
 The PMP exam is tough, but with the right resources and strategy, you can do it! If anyone needs more details or tips, feel free to reach out. You got this! 💪
+
+**Link to study guide I created:** https://docs.google.com/document/d/1E7jj03HzPXU97KJkCNn12wxoiHL4jgzb__8Pq2JL4kQ/edit
 
 **Good luck to all the future PMPs out there!** 🎓
