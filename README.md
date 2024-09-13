@@ -8,9 +8,13 @@ I’m super excited to share that I just passed the PMP exam with Above Target (
 
 ### Study Materials Used:
 PMBOK Guide (6th & 7th Editions) – Went through the core concepts quickly to build a foundation.
+
 Rita Mulcahy’s PMP Exam Prep – A must-have! Helped me understand tough topics in an easy-to-digest way.
+
 DumpsSpot PMP Exam PDF – These practice questions were incredibly helpful in familiarizing myself with the actual exam format and the types of tricky questions that get asked.
+
 Practice Tests – I took at least one mock exam every day for two weeks, focusing on weak areas and reviewing explanations for all answers.
+
 ### My 3-Week Plan:
 **Week 1:** Built foundational knowledge with the PMBOK and Rita’s book.
 **Week 2:** Practiced with Dumps Spot PMP Dumps, focusing on ITTOs and Agile methodology.
