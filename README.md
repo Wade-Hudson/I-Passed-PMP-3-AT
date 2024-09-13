@@ -8,6 +8,8 @@ I’m super excited to share that I just passed the PMP exam with Above Target (
 
 Dumpsspot.com PMP Exam PDF – These practice questions were incredibly helpful in familiarizing myself with the actual exam format and the types of tricky questions that get asked.
 
+**Highly Recommended:** https://www.dumpsspot.com/pmi/pmp-dumps.html
+
 Practice Tests – I took at least one mock exam every day for two weeks, focusing on weak areas and reviewing explanations for all answers.
 
 ### Exam Day Tips:
