@@ -17,8 +17,11 @@ Practice Tests – I took at least one mock exam every day for two weeks, focusi
 
 ### My 3-Week Plan:
 **Week 1:** Built foundational knowledge with the PMBOK and Rita’s book.
+
 **Week 2:** Practiced with Dumps Spot PMP Dumps, focusing on ITTOs and Agile methodology.
+
 **Week 3:** Full-length practice exams and fine-tuning weak areas with more Dumps Spot practice questions.
+
 ### Exam Day Tips:
 Keep calm and pace yourself. There were a few tricky situational questions, but using Dumps Spot gave me the confidence to tackle them.
 Don’t rush—flag questions if needed and revisit them with a fresh perspective.
