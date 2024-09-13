@@ -7,9 +7,16 @@ I’m super excited to share that I just passed the PMP exam with Above Target (
 ## Here’s a quick rundown of my study strategy:
 
 ### Study Materials Used:
-PMBOK Guide (6th & 7th Editions) – Went through the core concepts quickly to build a foundation.
 
-Rita Mulcahy’s PMP Exam Prep – A must-have! Helped me understand tough topics in an easy-to-digest way.
+PMP Udemy course 35 PDUs (watch videos at 2-3X, get general familiarity)
+
+PMP Process Mapping Game (game to memorize phases/processes)
+
+PMBOK 7th Edition Full Review on Principles (15 min full guide)
+
+PMBOK 6th Edition Full Review on Process Flow (22 min full guide)
+
+David Mclachlan’s 200 agile questions (exam-like agile-scenario questions)
 
 DumpsSpot PMP Exam PDF – These practice questions were incredibly helpful in familiarizing myself with the actual exam format and the types of tricky questions that get asked.
 
