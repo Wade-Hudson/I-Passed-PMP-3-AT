@@ -15,8 +15,7 @@ Practice Tests – I took at least one mock exam every day for two weeks, focusi
 ### Exam Day Tips:
 Keep calm and pace yourself. There were a few tricky situational questions, but using Dumps Spot gave me the confidence to tackle them.
 Don’t rush—flag questions if needed and revisit them with a fresh perspective.
-The PMP exam is tough, but with the right resources and strategy, you can do it! If anyone needs more details or tips, feel free to reach out. You got this! 💪
 
-**Link to study guide I created:** https://docs.google.com/document/d/1E7jj03HzPXU97KJkCNn12wxoiHL4jgzb__8Pq2JL4kQ/edit
+The PMP exam is tough, but with the right resources and strategy, you can do it! If anyone needs more details or tips, feel free to reach out. You got this! 💪
 
 **Good luck to all the future PMPs out there!** 🎓
