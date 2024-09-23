@@ -1,4 +1,4 @@
-# I Passed PMP 3AT with the Help of DumpsSpot! 🎉
+# I Passed PMP 3AT with the Help of Dumpsspot! 🎉
 
 ## Hey everyone,
 
