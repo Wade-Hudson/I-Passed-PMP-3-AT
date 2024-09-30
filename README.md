@@ -1,8 +1,8 @@
-# I Passed PMP 3AT with the Help of Dumpsspot! 🎉
+# I Passed PMP 3AT! 🎉
 
 ## Hey everyone,
 
-I’m super excited to share that I just passed the PMP exam with Above Target (AT) in all three domains (People, Process, Business Environment)! 🎯 It was a challenging journey, but I couldn’t have done it without some key resources, especially DumpsSpot.
+I’m super excited to share that I just passed the PMP exam with Above Target (AT) in all three domains (People, Process, Business Environment)! 🎯 It was a challenging journey, but I couldn’t have done it without some key resources.
 
 ## PMI PMP Practice Questions:
 
